@@ -1,4 +1,4 @@
-# Markdown in 10mins
+# Markdown study
 ## hi 
 #### bye
 

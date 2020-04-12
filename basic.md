@@ -1,4 +1,4 @@
-# Markdown study[1] 
+# Markdown study
 ## 1. 기호# 
 #### # : 글씨 크기 조정
 ex)  ###hi  
